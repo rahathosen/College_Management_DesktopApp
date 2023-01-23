@@ -1,2 +1,2 @@
 ## Collage Management Desktop App
-### [Demo Video](https://youtu.be/4f0u7L9pQkw)
+### [Demo Video](https://youtu.be/czYNEY3RWEY)
